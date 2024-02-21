@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GoodbyeMoney",
-    "slug": "GoodbyeMoney",
+    "slug": "goodbyemoney",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fd1c15f9-2231-4ba0-8ece-896d44fe7259"
+      }
+    },
+    "owner": "aungpyaewiz"
   }
 }
